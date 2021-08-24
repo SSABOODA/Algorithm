@@ -1,8 +1,4 @@
-def countdown(n):
-    if n == 0:
-        print("BLASTOFF!!")
-    else:
-        print(n)
-        countdown(n-1)
+a = '1200'
+b = a[::-1]
 
-countdown(3)
+print(3 ** 0)
