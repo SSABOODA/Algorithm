@@ -1,4 +1,3 @@
-a = '1200'
-b = a[::-1]
+a = [6, 10]
 
-print(3 ** 0)
+print(str(a[1]).split)
