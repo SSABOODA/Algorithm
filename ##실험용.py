@@ -1,3 +1,4 @@
-a = [6, 10]
+a = "-1 -2 -3 -4"
 
-print(str(a[1]).split)
+for i in a:
+    print(i)
